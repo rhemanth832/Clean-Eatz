@@ -1,2 +1,33 @@
-# Clean Eatz
-Clean Eatz 🍴🥗  Clean Eatz is a fully functional health food ordering website developed by Rasamsetty Hemanth as part of an internship project with Innovarsity.  The platform allows users to browse healthy meals, view nutritional details, and conveniently place food orders online. It is designed with a clean UI, smooth navigation, and a focus on promoting wellness through technology.  🔹 Key Features  🥦 Browse and order from a variety of healthy meals  📊 View nutritional values for each dish  🛒 Add to cart and checkout functionality  👤 User authentication & account management  📱 Responsive design for mobile & desktop  🔹 Tech Stack  Frontend: HTML, CSS, JavaScript  Backend: Node.js / Django (update based on what you used)  Database: MongoDB / MySQL (update based on what you used)  🔹 About the Project This project was built as part of my internship with Innovarsity, focusing on developing real-world applications with modern web technologies. The goal was to create a seamless food-ordering experience with an emphasis on healthy eating.
+# 🍴 Clean Eatz  
+<img width="1882" height="843" alt="image" src="https://github.com/user-attachments/assets/90615222-0a31-45e9-a8eb-0e5039266752" />
+
+
+**Clean Eatz** is a fully functional **health food ordering website** developed by **Rasamsetty Hemanth** during an internship with **Innovarsity**.  
+The platform allows users to browse healthy meals, check nutrition info, and place online orders with a clean and responsive design.  
+
+---
+
+## 🚀 Features  
+- 🥗 Browse healthy meals with detailed descriptions  
+- 📊 View nutritional information for each dish  
+- 🛒 Add items to cart & checkout functionality  
+- 👤 User authentication and account management  
+- 📱 Responsive design for desktop and mobile  
+
+---
+
+## 🛠️ Tech Stack  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** Node.js / Django *(update based on your implementation)*  
+- **Database:** MongoDB / MySQL *(update accordingly)*  
+
+---
+
+## 📂 Project Structure  
+```bash
+CleanEatz/
+│── frontend/        # UI components, pages, and assets
+│── backend/         # Server-side code and APIs
+│── database/        # Database schema / models
+│── public/          # Static assets
+│── README.md        # Project documentation
