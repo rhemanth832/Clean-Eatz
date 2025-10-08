@@ -9,7 +9,7 @@ The platform allows users to browse healthy meals, check nutrition info, and pla
 
 ## 🚀 Features  
 - 🥗 Browse healthy meals with detailed descriptions  
-- 📊 View nutritional information for each dish  
+- 📊 View nutritional dish items
 - 🛒 Add items to cart & checkout functionality  
 - 👤 User authentication and account management  
 - 📱 Responsive design for desktop and mobile  
@@ -17,9 +17,8 @@ The platform allows users to browse healthy meals, check nutrition info, and pla
 ---
 
 ## 🛠️ Tech Stack  
-- **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** Node.js / Django *(update based on your implementation)*  
-- **Database:** MongoDB / MySQL *(update accordingly)*  
+- **Frontend:** HTML, CSS, JavaScript 
+- **Database:** MySQL
 
 ---
 
@@ -29,5 +28,4 @@ CleanEatz/
 │── frontend/        # UI components, pages, and assets
 │── backend/         # Server-side code and APIs
 │── database/        # Database schema / models
-│── public/          # Static assets
 │── README.md        # Project documentation
