@@ -1,16 +1,18 @@
 # 🍴 Clean Eatz  
-<img width="1882" height="843" alt="image" src="https://github.com/user-attachments/assets/90615222-0a31-45e9-a8eb-0e5039266752" />
 
+<img width="1866" height="846" alt="image" src="https://github.com/user-attachments/assets/630f81b5-a96e-4845-bb3d-12786b5a3a5f" />
+  
 
 **Clean Eatz** is a fully functional **health food ordering website** developed by **Rasamsetty Hemanth** during an internship with **Innovarsity**.  
-The platform allows users to browse healthy meals, check nutrition info, and place online orders with a clean and responsive design. 
+The platform allows users to browse healthy meals, check nutrition info, and place online orders with a clean and responsive design.  
 
 🔗 **Live Project:** [Clean Eatz Website](https://cleaneatz.netlify.app/)  
+
 ---
 
 ## 🚀 Features  
 - 🥗 Browse healthy meals with detailed descriptions  
-- 📊 View nutritional dish items
+- 📊 View nutritional dish items  
 - 🛒 Add items to cart & checkout functionality  
 - 👤 User authentication and account management  
 - 📱 Responsive design for desktop and mobile  
@@ -18,8 +20,8 @@ The platform allows users to browse healthy meals, check nutrition info, and pla
 ---
 
 ## 🛠️ Tech Stack  
-- **Frontend:** HTML, CSS, JavaScript 
-- **Database:** MySQL
+- **Frontend:** HTML, CSS, JavaScript  
+- **Database:** MySQL  
 
 ---
 
