@@ -4,7 +4,7 @@
 
 **Clean Eatz** is a fully functional **health food ordering website** developed by **Rasamsetty Hemanth** during an internship with **Innovarsity**.  
 The platform allows users to browse healthy meals, check nutrition info, and place online orders with a clean and responsive design.  
-
+🔗 **Live Project:** [Clean Eatz Website](https://cleaneatz.netlify.app/)  
 ---
 
 ## 🚀 Features  
